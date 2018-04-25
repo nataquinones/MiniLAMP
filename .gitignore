@@ -7,6 +7,7 @@ Icon?
 Thumbs.db
 *.sublime-project
 *.sublime-workspace
+*.ipynb-checkpoints/
 
 # PYTHON
 *.py[cod]
