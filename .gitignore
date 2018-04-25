@@ -1,0 +1,19 @@
+# OS AND EDITOR
+.DS_Store
+.dropbox
+.cache
+.project
+Icon?
+Thumbs.db
+*.sublime-project
+*.sublime-workspace
+
+# PYTHON
+*.py[cod]
+
+# PROJECT SPECIFIC
+_mess/
+control_maps/
+simulated_data/
+simulations/
+vault/
